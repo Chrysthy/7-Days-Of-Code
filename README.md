@@ -4,7 +4,7 @@ Challenge created by [Alura.](https://7daysofcode.io/matricula/logica-programaca
 
 <br>
 
-<img center src="img-alura-site.png" alt="photo Alura Website">
+<img src="img-alura-site.png" alt="photo Alura Website">
 
 <br>
 
