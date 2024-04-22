@@ -15,3 +15,7 @@ Challenge created by [Alura.](https://7daysofcode.io/matricula/logica-programaca
 ## Day Two
 
 <p>It's not only about conditions and boolean operations that a code thrives on, so on the second day of the programming logic challenge, you'll learn how to work with input capture and how to store this information in variables to use them during the execution of your program.</p>
+
+## Day Three
+
+<p>On this day, you'll bring together everything you've learned in the previous days to create a dynamic narrative. And to ensure that this story only ends when the person reading it wants it to, you'll need to add loops to perform a task repeatedly!</p>
