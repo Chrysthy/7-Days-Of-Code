@@ -19,3 +19,7 @@ Challenge created by [Alura.](https://7daysofcode.io/matricula/logica-programaca
 ## Day Three
 
 <p>On this day, you'll bring together everything you've learned in the previous days to create a dynamic narrative. And to ensure that this story only ends when the person reading it wants it to, you'll need to add loops to perform a task repeatedly!</p>
+
+## Day Four
+
+<p>Since we're delving into games and narratives, how about creating a program to play against the computer? On your fourth day, you'll learn to work with randomness to create a game.</p>
