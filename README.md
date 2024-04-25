@@ -27,3 +27,7 @@ These challenges were created by [Alura.](https://7daysofcode.io/matricula/logic
 ### Day Four
 
 <p>Since we're delving into games and narratives, how about creating a program to play against the computer? On your fourth day, you'll learn to work with randomness to create a game.</p>
+
+### Day Five
+
+<p>Lists are everywhere and they help us manage a large volume of information. It's very important that you know how to work with arrays, and we've prepared a special day just for that!</p>
