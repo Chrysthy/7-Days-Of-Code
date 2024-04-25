@@ -8,7 +8,7 @@ These challenges were created by [Alura.](https://7daysofcode.io/matricula/logic
 
 <br>
 
-<p align="center"> <img src="img-alura-site.png" alt="photo Alura Website"> </p>
+<p align="center"> <img width="400" src="img-alura-site.png" alt="photo Alura Website"> </p>
 
 <br>
 
