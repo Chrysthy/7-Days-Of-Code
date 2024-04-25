@@ -31,3 +31,7 @@ These challenges were created by [Alura.](https://7daysofcode.io/matricula/logic
 ### Day Five
 
 <p>Lists are everywhere and they help us manage a large volume of information. It's very important that you know how to work with arrays, and we've prepared a special day just for that!</p>
+
+### Day Six
+
+<p>After practicing how to insert and manipulate items within a list, you will understand how and when to remove a specific item from it.</p>
