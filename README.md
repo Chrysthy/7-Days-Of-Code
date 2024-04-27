@@ -35,3 +35,7 @@ These challenges were created by [Alura.](https://7daysofcode.io/matricula/logic
 ### Day Six
 
 <p>After practicing how to insert and manipulate items within a list, you will understand how and when to remove a specific item from it.</p>
+
+### Day Seven
+
+<p>On the seventh and final day of the challenge, you will undertake a larger project to see how organization, or the lack thereof, can impact your code production and sometimes lead to errors that you wouldn't typically make.</p>
