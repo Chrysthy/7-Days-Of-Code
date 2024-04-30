@@ -39,3 +39,8 @@ These challenges were created by [Alura.](https://7daysofcode.io/matricula/logic
 ### Day Seven
 
 <p>On the seventh and final day of the challenge, you will undertake a larger project to see how organization, or the lack thereof, can impact your code production and sometimes lead to errors that you wouldn't typically make.</p>
+
+<br>
+<h2> Suggestions </h2>
+<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+
